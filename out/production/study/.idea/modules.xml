@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookProject/BookProject.iml" filepath="$PROJECT_DIR$/BookProject/BookProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jungol/Jungol.iml" filepath="$PROJECT_DIR$/Jungol/Jungol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_test/git_test.iml" filepath="$PROJECT_DIR$/git_test/git_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-application/java-application.iml" filepath="$PROJECT_DIR$/java-application/java-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_advance/java_advance.iml" filepath="$PROJECT_DIR$/java_advance/java_advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/reference/reference.iml" filepath="$PROJECT_DIR$/java-basic/reference/reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+    </modules>
+  </component>
+</project>

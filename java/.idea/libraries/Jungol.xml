@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Jungol">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jungol/out/production/Jungol/shinsegaeTranning.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Jungol/out/production/Jungol/Loop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+Index: java-application/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/java-application/.idea/vcs.xml b/java-application/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1703685475399)
++++ b/java-application/.idea/vcs.xml	(date 1703685475399)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
