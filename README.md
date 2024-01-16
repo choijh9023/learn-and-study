@@ -61,7 +61,9 @@
 [`JAVA-5주차`](https://hammerhead-chauffeur-43c.notion.site/5-9341f5cecc844d40b99f503523816ace?pvs=4) -> 컬렉션,람다,스트림
 
 ### 데이터베이스 과정 
-[`데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> 
+[`데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
+
+[`데이터베이스`]()  -> sql 실습 코드 및 실습 과정 
 ### 🦾개념 및 기본 정리 // 실습 코드🦾
 [`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
 
