@@ -63,7 +63,7 @@
 ### 데이터베이스 과정 
 [`데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
 
-[`데이터베이스`](http://https://github.com/choijh9023/learn-and-study/blob/main/java/java_advance/src/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)  -> sql 실습 코드 및 실습 과정 
+[`데이터베이스`](java\java_advance\src\데이터베이스\데이터베이스.md)  -> sql 실습 코드 및 실습 과정 
 ### 🦾개념 및 기본 정리 // 실습 코드🦾
 [`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
 
