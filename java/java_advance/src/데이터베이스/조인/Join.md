@@ -1,6 +1,20 @@
 ## 1월 18일 
 ## DML(Data Manipulation language) 데이터 조작어 
 ## Join
+### 외부조인 ★★★★outer join★★★★
+외부조인은 데이터베이스에서 두 테이블을 연결할 때 사용되며, 연결 조건을 충족하지 않는 행도 결과에 포함시킵니다. 세 가지 주요 유형이 있습니다.
+1. [x] 새로운 개념 도입 **left outer join** 테이블명 on 테이블명 = 테이블명
+
+1. [x] **왼쪽 외부조인(Left Outer Join):**
+   - 왼쪽 테이블의 모든 행을 포함하며, 오른쪽 테이블에서 일치하는 행이 없으면 **NULL 값으로 채웁니다**.
+
+2. [x] **오른쪽 외부조인(Right Outer Join):**
+   - 오른쪽 테이블의 모든 행을 포함하며, 왼쪽 테이블에서 일치하는 행이 없으면 **NULL 값으로 채웁니다**.
+
+3. [x] **전체 외부조인(Full Outer Join):**
+   - 양쪽 테이블 중 어느 한 쪽에도 일치하는 행이 없어도 **모든 행을 결과에 포함시킵니다**.
+
+외부조인은 두 테이블 간의 관계를 조사하거나 필요한 데이터를 가져올 때 사용됩니다. 결과에는 일치하는 행과 일치하지 않는 행이 모두 포함되어 있습니다.
 
 -- 실습 코드로 작성 
 
@@ -33,6 +47,7 @@ from orders,customer;
 <details>
 <summary>쿼리 실습코드   </summary>
 <div markdown="1">
+
 1. 고객과 고객의 주문에 관한 데이터를 모두 보이시오 
 ```sql
 select * 
@@ -85,20 +100,6 @@ where c.custid = o.custid and b.bookid = o.bookid and b.price =20000;
 
 ```
 7. 도서를 구매하지 않은 고객을 포함하여 고객의 이름과 고객이 주문한 도서의 판매가격을 구하시오
-1. [x] 새로운 개념 도입 **left outer join** 테이블명 on 테이블명 = 테이블명 
-### 외부조인 ★★★★outer join★★★★
-외부조인은 데이터베이스에서 두 테이블을 연결할 때 사용되며, 연결 조건을 충족하지 않는 행도 결과에 포함시킵니다. 세 가지 주요 유형이 있습니다.
-
-1. [x] **왼쪽 외부조인(Left Outer Join):**
-    - 왼쪽 테이블의 모든 행을 포함하며, 오른쪽 테이블에서 일치하는 행이 없으면 **NULL 값으로 채웁니다**.
-
-2. [x] **오른쪽 외부조인(Right Outer Join):**
-    - 오른쪽 테이블의 모든 행을 포함하며, 왼쪽 테이블에서 일치하는 행이 없으면 **NULL 값으로 채웁니다**.
-
-3. [x] **전체 외부조인(Full Outer Join):**
-    - 양쪽 테이블 중 어느 한 쪽에도 일치하는 행이 없어도 **모든 행을 결과에 포함시킵니다**.
-
-외부조인은 두 테이블 간의 관계를 조사하거나 필요한 데이터를 가져올 때 사용됩니다. 결과에는 일치하는 행과 일치하지 않는 행이 모두 포함되어 있습니다.
 
 ```sql
 select c.name , o.saleprice
@@ -151,6 +152,82 @@ where b1.price >
  - 여기서는 출판사의 평균도서가격이 없기 때문에 즉, 그 조건이 없이 때문에 
  그것에 대한 데이터를 새로 만들어서 추력을 하기 위해서 상위부속,하위부속을 만든것이다. 
 
+12. 도서를 가격의 내림차순으로 검색하고 가격이 같으면 출산파를 오름차순
+```sql
+select * 
+from book 
+order by price desc, publisher desc;
+
+ 
+ ```
+13. 고객이 주문한 도서의 총 판매액을 구하시오
+```sql
+select sum(saleprice) as '총 도서구매액' 
+from orders;
+ 
+```
+14.  2번 김연아 고객이 주문한 도서의 총 판매액을 출력하시오 출력시 총 판매액으로 컬럼명 표시
+
+```sql
+select custid, sum(saleprice) as '총 판매액'
+from orders
+where custid like 2;
+
+```
+15. 고객이 주문한 도서의 총판매액, 평균값, 최저가를 구하시오. (출력시 각 필드명을 제시한 필드명으로 표시)
+```sql
+ select sum(saleprice) as '총판매액', avg(saleprice*1.0) as "평균값", min(saleprice) as '최저가'
+from orders;
+```
+16. 서점의 도서 판매 건수를 구하시오.
+```sql
+select count(orderid)
+from orders;
+
+```
+17. 가격이 8,000원 이상인 도서를 구매한 고객에 대하여 고객별 주문 도서의 총수량을 구하시오. 단, 2권 이상일 경우만 출력하시오.
+```sql
+select custid, count(*) from orders where saleprice >= 8000
+group by custid having count(*) >= 2;
+
+```
+
+18. 가장 비싼 도서의 이름을 검색하시오
+```sql
+select bookname
+from book
+where price=(select max(price) from book);
+===========================다른풀이
+select bookname from book order by price desc limit 1;
+
+
+```
+
+19. 도서를 구매한 적이 있는 고객의 이름을 검색하시오
+```sql
+select name
+from customer
+where custid in (select custid from orders);
+===========================다른풀이(조인문을 이용한 풀이)
+SELECT distinct customer.name
+FROM customer
+JOIN orders ON customer.custid = orders.custid;
+=========================(XXXXX)-- 이것은 중복값을 같이 출력하므로 X distinct 필요 
+SELECT customer.name  
+FROM customer
+JOIN orders ON customer.custid = orders.custid;
+
+```
+
+20. '대한 미디어'에서 출판한 도서를 구매한 고객의 이름을 나타내시오
+```sql
+select name 
+from customer 
+where custid in (
+select custid from orders where bookid in (
+select bookid from book where publisher = '대한미디어'));
+
+```
 </div>
 </details>
 

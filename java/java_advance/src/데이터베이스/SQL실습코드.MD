@@ -161,6 +161,8 @@ from clubtbl c
 right outer join stdclubtbl sc on sc.clubname = c.clubname
 right outer join stdtbl s on sc.stdname = s.stdname;
     
+    
+    
      
 ```
 
