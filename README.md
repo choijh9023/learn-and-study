@@ -66,16 +66,23 @@
 ### 데이터베이스 과정 
 [`🐾데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
 
-[`🐾데이터베이스`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)  -> sql 실습 코드 및 실습 과정 
+[`🐾데이터베이스`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
 
-[`🐾데이터조작어`](java/java_advance/src/데이터베이스/관계대수/데이터조작어.MD)
+[`🐾데이터정의어(DDL)`](java/java_advance/src/데이터베이스/데이터정의어/데이터정의어.MD)
+
+[`🐾데이터조작어(DML)이론`](java/java_advance/src/데이터베이스/데이터정의어/데이터정의어.MD)
+
+[`🐾데이터조작어(DML)실습`](java/java_advance/src/데이터베이스/관계대수/데이터조작어.MD)
 
 [`🐾관계대수이론`](java/java_advance/src/데이터베이스/관계대수/관계대수및집계함수.MD)
 
 [`🐾무결성제약조건`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
 
 [`🐾Join문`](java/java_advance/src/데이터베이스/조인/Join.md)
-[`🐾SQL 실습코드`]()
+
+[`🐾SQL 실습코드`](java/java_advance/src/데이터베이스/SQL실습코드.MD)
+
+
 ### 🦾개념 및 기본 정리 // 실습 코드🦾
 [`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
 
