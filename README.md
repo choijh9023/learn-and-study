@@ -74,7 +74,7 @@
 
 [`🐾무결성제약조건`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
 
-[`Join문`](java/java_advance/src/데이터베이스/조인/Join.md)
+[`🐾Join문`](java/java_advance/src/데이터베이스/조인/Join.md)
 
 ### 🦾개념 및 기본 정리 // 실습 코드🦾
 [`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
