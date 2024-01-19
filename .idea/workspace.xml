@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d70438-58a7-478b-b427-79e54e73070f" name="Changes" comment="" />
+    <list default="true" id="f8d70438-58a7-478b-b427-79e54e73070f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
       <recent name="C:\study\java\java_advance\src\데이터베이스\md" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\java\java_advance\src\데이터베이스\SQL고급\내장함수" />
       <recent name="C:\study\java\java_advance\src\데이터베이스\데이터정의어" />
       <recent name="C:\study\java\java_advance\src\데이터베이스\조인" />
       <recent name="C:\study\java\java_advance\src\데이터베이스\무결성제약조건" />
