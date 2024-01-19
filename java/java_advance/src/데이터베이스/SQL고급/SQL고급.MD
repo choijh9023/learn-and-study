@@ -140,11 +140,11 @@ WHERE @SEQ <=2; -- 3번
 
 1. 뷰의 생성에 대한 코드 및 설명
 
-![img](뷰/뷰의 생성.png)
+![IMG](뷰/뷰의생성.png)
 
 2. 뷰를 수정에 대한 코드 및 설명 
 
-![IMG](뷰/뷰의 수정.png)
+![IMG](뷰/뷰의수정.png)
 - create or replace view 뷰명
 
 
