@@ -80,9 +80,11 @@
 
 [`🐾무결성제약조건`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
 
+[`🐾SQL내장함수/View/Index`](java/java_advance/src/데이터베이스/SQL고급/SQL고급.MD)
 
 
-[`🐾SQL 실습코드`](java/java_advance/src/데이터베이스/SQL실습코드.MD)
+
+[`🐾SQL 실습TEST`](java/java_advance/src/데이터베이스/SQL실습코드.MD)
 
 
 ### 🦾개념 및 기본 정리 // 실습 코드🦾
