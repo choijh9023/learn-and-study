@@ -68,25 +68,25 @@
 ### 데이터베이스 과정 
 [`🐾데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
 
-[`🐾데이터베이스`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
+[`🐾데이터베이스`](java/SQL/데이터베이스/무결성제약조건/데이터베이스.md)
 
-[`🐾데이터정의어(DDL)`](java/java_advance/src/데이터베이스/데이터정의어/데이터정의어.MD)
+[`🐾데이터정의어(DDL)`](java/SQL/데이터베이스/데이터정의어/데이터정의어.MD)
 
-[`🐾데이터조작어(DML)이론`](java/java_advance/src/데이터베이스/데이터정의어/데이터정의어.MD)
+[`🐾데이터조작어(DML)이론`](java/SQL/데이터베이스/데이터정의어/데이터정의어.MD)
 
-[`🐾데이터조작어(DML)실습1`](java/java_advance/src/데이터베이스/관계대수/데이터조작어.MD) -> 
+[`🐾데이터조작어(DML)실습1`](java/SQL/데이터베이스/관계대수/데이터조작어.MD) -> 
 
-[`🐾데이터조작어(DML)실습2`](java/java_advance/src/데이터베이스/조인/Join.md) -> Join문 개념정리 추가 / 서브쿼리사용 풀이코드
+[`🐾데이터조작어(DML)실습2`](java/SQL/데이터베이스/조인/Join.md) -> Join문 개념정리 추가 / 서브쿼리사용 풀이코드
 
-[`🐾관계대수이론`](java/java_advance/src/데이터베이스/관계대수/관계대수및집계함수.MD)
+[`🐾관계대수이론`](java/SQL/데이터베이스/관계대수/관계대수및집계함수.MD)
 
-[`🐾무결성제약조건`](java/java_advance/src/데이터베이스/무결성제약조건/데이터베이스.md)
+[`🐾무결성제약조건`](java/SQL/데이터베이스/무결성제약조건/데이터베이스.md)
 
-[`🐾SQL내장함수/View/Index`](java/java_advance/src/데이터베이스/SQL고급/SQL고급.MD)
+[`🐾SQL내장함수/View/Index`](java/SQL/데이터베이스/SQL고급/SQL고급.MD)
 
 
 
-[`🐾SQL 실습TEST`](java/java_advance/src/데이터베이스/SQL실습코드.MD)
+[`🐾SQL 실습TEST`](java/SQL/데이터베이스/SQL실습코드.MD)
 
 
 ### 🦾개념 및 기본 정리 // 실습 코드🦾

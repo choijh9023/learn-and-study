@@ -36,13 +36,13 @@ from orders,customer;
 -  테이블 3가지 orders,customer,book
 1. orders테이블
 
-   ![img](./orders.png)
+   ![img](orders.png)
 2. customer테이블
 
-   ![img](./customer.png)
+   ![img](customer.png)
 3. book테이블
 
-   ![img](./book.png)
+   ![img](book.png)
 
 ---
 ## 쿼리문제 
@@ -236,7 +236,7 @@ select bookid from book where publisher = '대한미디어'));
 ---
 ## 집합연산 
 ### 
-![img](./집합연산.png)
+![img](집합연산.png)
 <details>
 <summary>🐝집합연산 실습코드🐝    </summary>
 <div markdown="1">
@@ -280,11 +280,11 @@ where address like '대한민국%' and name in
 1. [X] EXISTS는 원래 단어에서 의미하는 것과 **같은 조건에 맞는 튜플이 존재하면 결과에 포함시킴**. 즉 부속문의 어떤 행이 조건에 만족하면 참임.
 2. [X] NOT EXISTS는 부속문의 모든 행이 **조건에 만족하지 않을 때만 참임**.
 
-![img](./EXISTS.png)
+![img](EXISTS.png)
 
 ### 그림예시 
 
-![img](./EXISTS그림예시.png)
+![img](EXISTS그림예시.png)
 
 ### 실습 코드 
 1. 주문이 있는 고객의 이름과 주소를 조회 하세요 

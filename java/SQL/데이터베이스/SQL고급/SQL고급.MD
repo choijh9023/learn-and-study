@@ -9,10 +9,10 @@
 [MYSQL DOCUMENT](https://dev.mysql.com/doc/refman/8.3/en/keywords.html)
 
 
-![IMG](./목표.png)
+![IMG](목표.png)
 
 ### 목차 
-![IMG](./목차.png)
+![IMG](목차.png)
 <details>
 <summary>1. 🐝내장함수 🐝    </summary>
 <div markdown="1">
