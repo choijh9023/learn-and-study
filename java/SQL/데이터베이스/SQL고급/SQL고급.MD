@@ -174,7 +174,7 @@ select *
 from vw_customer;
 
 -- #######21 번 오더테이블에 고객이름과 도서이름을 바로 확인할 수 있는 뷰를 생성한후
-'김연아' 고객이 구입한 도서의 주문번호,도서이름,주문액을 보이시오
+-- '김연아' 고객이 구입한 도서의 주문번호,도서이름,주문액을 보이시오
 
 
 create view o_orders(orderid,custid,name,bookid,bookname,saleprice,orderdate)
@@ -237,6 +237,19 @@ from highorders;
 <details>
 <summary>3.  🐝 인덱스   🐝    </summary>
 <div markdown="1">
+
+
+인덱스  == 참조형 타입 == 객체
+unique는 보조 인덱스
+
+보조 인덱스는 여러개 생성 가능
+
+클러스트형 인덱스는 참조형 타입(객체다)
+인덱스를 먼저 기입하고 데이터를 넣는 것이 효율적이다.
+why? 그렇지 않으면 작업을 두번하는것이 되기때문이다.
+인덱스는 메모리를 꽤 잡아먹는다.(10%? 정확하지 않다.)
+
+
 
 ![IMG](인덱스/인덱스목차.png)
 ![IMG](인덱스/데이터의물리적저장.png)
