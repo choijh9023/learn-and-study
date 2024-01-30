@@ -4,10 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, 연극영화과를 전공하고 10년간의 배우생활을 뒤로하고 Back-end Programmer가 되기로 마음먹은 최문석입니다.
-### 배우활동의 경험으로 논리적이고, 합리적,경제적인 사고로 세상을 바라보는 습관이 몸에 베어 있고 그것을 기반으로 개발자로 성장하고 있습니다. 
 
-![img](./최문석2.jpg)
 
 <!-- Body -->
 
@@ -17,10 +14,6 @@
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
 
 
 
@@ -43,23 +36,26 @@
 
 ---
 
-## 문제 해결 과정 
 
 
-# 🐝정처기 정리
+
+# 🐝정처기 정리🐝
 [`정처기이론1과목 1-1 응용 소프트웨어 기초 기술`](java/정보처리산업기사/정보시스템기반기술1-1.MD)
 
-[`정처기이론1과목 1-2 애플리케이션 설계](java/정보처리산업기사/정보시스템기반기술1-2.MD)
-# 🐝미니 프로젝트 
+[`정처기이론1과목 1-2 애플리케이션 설계`](java/정보처리산업기사/정보시스템기반기술1-2.MD)
+# 🐝[Mini Project]🐝 
 [`Board`](https://github.com/choijh9023/learn-and-study/tree/main/java/BoardTest/BoardTest/src)  -> 24년 1월 10일 업로드 개발 1개월차 기본 게시판 작성 작업 완료 
 
----
+
 # 🐝[study] 🐝
-### 백엔드 과정 
- 
+
+ <details>
+<summary>JAVA 기초 </summary>
+<div markdown="1">
+
 [`☘JAVA-1주차`](https://hammerhead-chauffeur-43c.notion.site/1-8ea6e799925145a9a8fe7c42aa5e0955?pvs=4) -> JAVA 기본개념 및 조건문,반복문
 
-[`☘JAVA-2주차`](https://hammerhead-chauffeur-43c.notion.site/2-d854a099319d4a67864a28fbe9ed8a7d?pvs=4) -> 참조형타입, 배열, 문자열 
+[`☘JAVA-2주차`](https://hammerhead-chauffeur-43c.notion.site/2-d854a099319d4a67864a28fbe9ed8a7d?pvs=4) -> 참조형타입, 배열, 문자열
 
 [`☘JAVA-3주차`](https://hammerhead-chauffeur-43c.notion.site/3-UML-USE-CASE-8a7b234cf1904dcd820b0cb20c4fd927?pvs=4) -> 객체지향,다형성(인터페이스,추상클래스),다이어그램,유즈케이스,
 
@@ -67,7 +63,25 @@
 
 [`☘JAVA-5주차`](https://hammerhead-chauffeur-43c.notion.site/5-9341f5cecc844d40b99f503523816ace?pvs=4) -> 컬렉션,람다,스트림
 
-### 데이터베이스 과정 
+---
+# 람다식 정리 
+[`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
+
+[`🦾Stream정리🦾`](java/java_advance/src/stream/stream.md)
+
+[`🦾Stream 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/stream)
+
+[`🦾스레드정리🦾`](java/java_advance/src/마크다운정리/멀티스레드및운영체제.md)
+
+</div>
+</details>
+
+ -> 자바 회고록 
+
+ <details>
+<summary>데이터베이스 기초 </summary>
+<div markdown="1">
+
 [`🐾데이터베이스`](https://hammerhead-chauffeur-43c.notion.site/88fec798bf8f4ed8bf0bce04e4d62f58?pvs=4) -> sql 기본 개념및 이론 
 
 [`🐾데이터베이스`](java/SQL/데이터베이스/무결성제약조건/데이터베이스.md)
@@ -76,9 +90,9 @@
 
 [`🐾데이터조작어(DML)이론`](java/SQL/데이터베이스/데이터정의어/데이터정의어.MD)
 
-[`🐾데이터조작어(DML)실습1`](java/SQL/데이터베이스/관계대수/데이터조작어.MD) -> 
+[`🐾데이터조작어(DML)실습1`](java/SQL/데이터베이스/관계대수/데이터조작어.MD) 
 
-[`🐾데이터조작어(DML)실습2`](java/SQL/데이터베이스/조인/Join.md) -> Join문 개념정리 추가 / 서브쿼리사용 풀이코드
+[`🐾데이터조작어(DML)실습2`](java/SQL/데이터베이스/조인/Join.md) 
 
 [`🐾관계대수이론`](java/SQL/데이터베이스/관계대수/관계대수및집계함수.MD)
 
@@ -94,13 +108,14 @@
 
 [`🐾데이터정규화`](java/SQL/데이터베이스/이상현상과정규화트랜젝션개념/이상현상/데이터베이스정규화.MD)
 
+</div>
+</details>
 
-### 🦾개념 및 기본 정리 // 실습 코드🦾
-[`🦾람다 정리 및 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/lambda)
+-> 데이터베이스 회고록 
 
-[`🦾Stream정리🦾`](java/java_advance/src/stream/stream.md)
 
-[`🦾Stream 실습 코드🦾`](https://github.com/choijh9023/learn-and-study/tree/main/java/java_advance/src/stream)
 
-[`🦾스레드정리🦾`](java/java_advance/src/마크다운정리/멀티스레드및운영체제.md)
+
+
+
 
