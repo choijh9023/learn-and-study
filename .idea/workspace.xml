@@ -5,79 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d70438-58a7-478b-b427-79e54e73070f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/SQL고급.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/NULL값처리.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/NULL값처리2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/날짜시간함수.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/내장함수.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/내장함수1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/내장함수2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/문자함수.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/내장함수/숫자함수.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/목차.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/목표.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/뷰/뷰생성기본문법.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/뷰/뷰의생성.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/뷰/뷰의수정.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/B-tree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/B-tree1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/DBMS구조.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/데이터의물리적저장.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/데이터저장예시.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/데이터저장예시2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/엑세스시간.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/인덱스목차.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/인덱스의종류.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL고급/인덱스/인덱스저장위치.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/SQL실습코드.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/empTbl.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/stdclub.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/관계대수기본개념.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/관계대수목차.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/관계대수및집계함수.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/관계대수식연산예시.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/관계대수연산자.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/데이터조작어.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/릴레이션집합.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/릴레이션현실적용예.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/조인2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/관계대수/조인3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/ALTER문.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/ALTER문2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/CREATE문6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/DELETE문.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/DELETE문2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/DROP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/INSERT문.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/INSERT문2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/INSERT문3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/UPDATE문.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/UPDATE문2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/데이터정의어.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/데이터정의어.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/데이터정의어/데이터조작어.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/개체무결성제약조건.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/데이터베이스.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/무결성제약조건.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/무결성제약조건2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/참조무결성제약조건.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/참조무결성제약조건2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/무결성제약조건/참조무결성제약조건3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/EXISTS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/EXISTS그림예시.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/Join.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/book.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/customer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/orders.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advance/데이터베이스/조인/집합연산.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/CharachterConversionEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/CharachterConversionEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/WriterEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/WriterEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/WriterEx01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/WriterEx01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/데이터스트림.MD" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/SQL/데이터베이스/데이터스트림/데이터스트림.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,22 +47,42 @@
     "Application.ConstructMain1.executor": "Run",
     "Application.Ex1.executor": "Run",
     "Application.FileCopyEx.executor": "Run",
+    "Application.FileCopyEx1.executor": "Run",
+    "Application.FileMemo.executor": "Run",
     "Application.MethodInitMain1.executor": "Run",
     "Application.MethodInitMain3.executor": "Run",
+    "Application.MyClientEx1.executor": "Run",
+    "Application.MyClientEx2.executor": "Run",
+    "Application.MyServer.executor": "Run",
+    "Application.MyServerEx1.executor": "Run",
+    "Application.MyServerEx2.executor": "Run",
+    "Application.NewsClient.executor": "Run",
+    "Application.NewsServer.executor": "Run",
+    "Application.NewsServerEx1.executor": "Run",
     "Application.ObjectInputStreamEx.executor": "Run",
     "Application.PrintStreamEx.executor": "Run",
     "Application.ReadEx01.executor": "Run",
     "Application.ReaderEx.executor": "Run",
+    "Application.TCPClient.executor": "Run",
+    "Application.TCPServer.executor": "Run",
+    "Application.TestCilent.executor": "Run",
+    "Application.TestServer.executor": "Run",
     "Application.WriterEx.executor": "Run",
     "Application.WriterEx01.executor": "Run",
+    "Application.WriterEx02.executor": "Run",
+    "Application.WriterSelfEx.executor": "Run",
+    "Application.test01.executor": "Run",
     "Application.test2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Board-",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/study/lib/mysql-connector-java-8.0.17.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -138,23 +92,25 @@
       <recent name="C:\study\java\java_advance\src\데이터베이스\md" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\java\jdbcconnect" />
+      <recent name="C:\study\java\network\ex" />
+      <recent name="C:\study\java\project\SJmemo" />
       <recent name="C:\study\java\project" />
       <recent name="C:\study\java\SQL\데이터베이스\데이터모델링" />
-      <recent name="C:\study\java\java_advance\src\데이터베이스\SQL고급\내장함수" />
-      <recent name="C:\study\java\java_advance\src\데이터베이스\데이터정의어" />
-      <recent name="C:\study\java\java_advance\src\데이터베이스\조인" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="network.ex" />
+      <recent name="network" />
       <recent name="java_inflearn.construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectInputStreamEx">
-    <configuration name="BufferReaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SQL.데이터베이스.데이터스트림.BufferReaderEx" />
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="FileMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.FileMemo" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SQL.데이터베이스.데이터스트림.*" />
+          <option name="PATTERN" value="project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharachterConversionEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SQL.데이터베이스.데이터스트림.CharachterConversionEx" />
+    <configuration name="MyClientEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.MyClientEx2" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SQL.데이터베이스.데이터스트림.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectInputStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SQL.데이터베이스.데이터스트림.ObjectInputStreamEx" />
+    <configuration name="MyServerEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.MyServerEx2" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SQL.데이터베이스.데이터스트림.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SQL.데이터베이스.데이터스트림.PrintStreamEx" />
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.TCPClient" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SQL.데이터베이스.데이터스트림.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SQL.데이터베이스.데이터스트림.ReaderEx" />
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.TCPServer" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SQL.데이터베이스.데이터스트림.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectInputStreamEx" />
-        <item itemvalue="Application.PrintStreamEx" />
-        <item itemvalue="Application.CharachterConversionEx" />
-        <item itemvalue="Application.BufferReaderEx" />
-        <item itemvalue="Application.ReaderEx" />
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.MyClientEx2" />
+        <item itemvalue="Application.MyServerEx2" />
+        <item itemvalue="Application.FileMemo" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +184,6 @@
     <attachedChunks>
       <set>
         <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
-        <option value="jdk-17.0.9-corretto-17.0.9-e1d2075fd9a7-f66d43ae" />
       </set>
     </attachedChunks>
   </component>

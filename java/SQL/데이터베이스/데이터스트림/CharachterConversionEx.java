@@ -5,7 +5,7 @@ import java.io.*;
 // UTF - 8 문자셋으로 파일에 문자열을 저장하고, 저장된 문자를 다시 일어서 콘솔에 출력하는 프로그램을 만드시오
 public class CharachterConversionEx{
     public static void main(String[] args)throws Exception {
-        write("너에게 닿기를!!");
+        write("너에게 닿기를!!이렇게 하면 그만아니야? ");
         read();
 
 

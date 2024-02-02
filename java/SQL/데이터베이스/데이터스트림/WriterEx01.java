@@ -6,14 +6,16 @@ import java.io.OutputStream;
 // 24녀 1월 30일 데이터스트림 수업
 // 디렉토리는 꼭 있어야 한다.
 // 스트림을 사용할때는 항상 예외처리를해줘야한다.
+
+// ReadEx01 파일과 이어진다.
 public class WriterEx01 {
 
     public static void main(String[] args) {
 
-        try {// c:// temp/test1.text 파일에 10 20 30  데이터를 쓰자
-            OutputStream os = new FileOutputStream("C:/Temp/test.text"); // 여기에 출력을 할것이다.
+        try {// c:// temp/test1.text 파일에 10 20 30 데이터를 쓰자
+            OutputStream os = new FileOutputStream("C:/Temp/test.text"); // 파일을 생성한것 파일생성
             byte a = 10;
-            byte b = 20 ;
+            byte b = 20;
             byte c = 30;
             os.write(a);
             os.write(b);
