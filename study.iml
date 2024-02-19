@@ -10,5 +10,14 @@
     <orderEntry type="module" module-name="java-basic" />
     <orderEntry type="module" module-name="java-application" />
     <orderEntry type="module" module-name="java_advance" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/mysql-connector-java-8.0.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -14,6 +14,15 @@ public class MemberConstruct {
     int age;
     int grade;
 
+    @Override
+    public String toString() {
+        return "MemberConstruct{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", grade=" + grade +
+                '}';
+    }
+
     /**
      * 아래가 매개변수가 있는 생성자다
      * 그리고 생성자는 반환타입이 없다.
